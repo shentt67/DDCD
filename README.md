@@ -4,7 +4,7 @@
 
 ![](./framework.svg)
 
-> [Resisting Over-Smoothing in Graph Neural Networks via Dual-Dimensional Decoupling]()
+> [Resisting Over-Smoothing in Graph Neural Networks via Dual-Dimensional Decoupling](https://marswhu.github.io/publications/files/MM24_DDCD.pdf)
 >
 > Wei Shen, Mang Ye, Wenke Huang
 >
